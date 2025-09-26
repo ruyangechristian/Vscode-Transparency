@@ -8,9 +8,9 @@ This setup is running on **GNOME (Ubuntu)** in my case.
 ---
 
 ## 📸 Screenshot
-![screenshot](./screenshot1.png)
-![main](screenshot3.png)  
-![alt](screenshot2.png)
+![Vscode Transparency](./screenshot1.png)
+![Vscode Transparency](screenshot3.png)  
+![Vscode Transparency](screenshot2.png)
 
 ---
 
