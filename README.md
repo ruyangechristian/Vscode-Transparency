@@ -8,7 +8,7 @@ This setup is running on **GNOME (Ubuntu)** in my case.
 ---
 
 ## 📸 Screenshot
-![Vscode Transparency](./screenshot1.png)
+![Vscode-Transparency](./screenshot1.png)
 ![Vscode Transparency](screenshot3.png)  
 ![Vscode Transparency](screenshot2.png)
 
