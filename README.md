@@ -8,7 +8,7 @@ This setup is running on **GNOME (Ubuntu)** in my case.
 ---
 
 ## 📸 Screenshot
-![screenshot](screenshot.png)
+![screenshot](screenshot1.png)
 
 ---
 
