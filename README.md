@@ -1,6 +1,7 @@
 
 # Glassy VSCode Rice 🫕 / GNOME 🌿
-This is truly amazing! Everyone should try it — I had been looking for a trick like this for a long time, but it was hard to find one that works on GNOME or Windows.
+Guys This is truly amazing!🎊
+ I had been looking for a trick like this for a long time, but it was hard to find one that works on GNOME or Windows.
 
 ---
 
