@@ -1,6 +1,5 @@
 
 # Glassy VSCode Rice 🫕 / GNOME 🌿
-
 ---
 
 ## 📸 Screenshot
@@ -8,6 +7,7 @@
 ![screenshot](Screenshot2.png)  
 ![screenshot](Screenshot3.png)
 
+##Its Completely Readable (1 Trick)
 ---
 
 I’m really in love with my VSCode now! 💙🥶🧡  
