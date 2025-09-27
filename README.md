@@ -1,3 +1,6 @@
+
+# Glassy VSCode Rice 🌿 / UBUNTU 🍊
+
 ---
 
 ## 📸 Screenshot
@@ -7,9 +10,7 @@
 
 ---
 
-# Glassy VSCode Rice 🌿
-
-I’m really in love with my VSCode now!  
+I’m really in love with my VSCode now! 💙🥶  
 It turned out super clean and perfectly readable — a nice, hassle-free rice for anyone who wants a glassy, transparent VSCode setup.  
 
 This setup is running on **GNOME (Ubuntu)** in my case.
@@ -26,6 +27,12 @@ This setup is running on **GNOME (Ubuntu)** in my case.
 ---
 
 ## 🚀 How to use
-1. install GlassIt-VSC extension
-2. Use a High Contrasts Theme from vscode -> Noctis High Contrast in my case
+
+1. install **GlassIt-VSC** extension
+   + VS Code Extension to set window       to transparent on Windows and          Linux platforms.
+   + https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit
+
+2. **Use a High Contrasts Theme** from vscode -> 'Noctis High Contrast' in my case , choose what u **prefer**
+   *** important to use high contrast thm ***
+   ---
 https://github.com/white-rose27/Vscode-transparenty.git
