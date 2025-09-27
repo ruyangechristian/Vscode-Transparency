@@ -9,8 +9,8 @@ This setup is running on **GNOME (Ubuntu)** in my case.
 
 ## 📸 Screenshot
 ![screenshot](https://github.com/white-rose27/Vscode-Transparency/blob/e0d52713e97646221feda0285c88fea8a458805a/Screenshot1.png)
-![screenshot3](Vscode-Transparency/screenshot3.png)  
-![Vscode Transparency](screenshot2.png)
+![screenshot3](https://github.com/white-rose27/Vscode-Transparency/blob/abfafa17eb2ee17c738e5a471badf6b931ab435c/Screenshot2.png)  
+![screenshot2](Screenshot2.png)
 
 ---
 
